@@ -1,0 +1,5 @@
+﻿  Slist.c
+  test.c
+  正在生成代码...
+D:\就业课代码\数据结构\Slist_10_28_2\Slist_10_28_2\Slist.c(26,1): warning C4715: “SLTBuyNode”: 不是所有的控件路径都返回值
+  Slist_10_28_2.vcxproj -> D:\就业课代码\数据结构\Slist_10_28_2\x64\Debug\Slist_10_28_2.exe
