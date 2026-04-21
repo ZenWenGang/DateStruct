@@ -1,0 +1,5 @@
+﻿  Contact.c
+D:\就业课代码\数据结构\seqlist_10_27_2\seqlist_10_27_2\Contact.c(43,12): warning C4013: “strcmp”未定义；假设外部返回 int
+  test.c
+  正在生成代码...
+  seqlist_10_27_2.vcxproj -> D:\就业课代码\数据结构\seqlist_10_27_2\x64\Debug\seqlist_10_27_2.exe
