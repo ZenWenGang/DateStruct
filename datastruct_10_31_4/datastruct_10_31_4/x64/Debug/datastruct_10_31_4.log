@@ -1,0 +1,11 @@
+﻿  环形链表的约瑟夫问题.c
+D:\就业课代码\数据结构\datastruct_10_31_4\datastruct_10_31_4\环形链表的约瑟夫问题.c(37,35): warning C4047: “函数”:“int”与“int *”的间接级别不同
+D:\就业课代码\数据结构\datastruct_10_31_4\datastruct_10_31_4\环形链表的约瑟夫问题.c(37,35): warning C4024: “createCircle”: 形参和实参 1 的类型不同
+D:\就业课代码\数据结构\datastruct_10_31_4\datastruct_10_31_4\环形链表的约瑟夫问题.c(42,19): warning C4047: “==”:“int”与“int *”的间接级别不同
+D:\就业课代码\数据结构\datastruct_10_31_4\datastruct_10_31_4\环形链表的约瑟夫问题.c(62,9): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\就业课代码\数据结构\datastruct_10_31_4\datastruct_10_31_4\环形链表的约瑟夫问题.c(62,9): warning C4024: “ysf”: 形参和实参 1 的类型不同
+D:\就业课代码\数据结构\datastruct_10_31_4\datastruct_10_31_4\环形链表的约瑟夫问题.c(62,11): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\就业课代码\数据结构\datastruct_10_31_4\datastruct_10_31_4\环形链表的约瑟夫问题.c(62,11): warning C4024: “ysf”: 形参和实参 2 的类型不同
+D:\就业课代码\数据结构\datastruct_10_31_4\datastruct_10_31_4\环形链表的约瑟夫问题.c(63,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(int *,int *)”
+D:\就业课代码\数据结构\datastruct_10_31_4\datastruct_10_31_4\环形链表的约瑟夫问题.c(63,12): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int (__cdecl *)(int *,int *)" 的参数 1 冲突
+  datastruct_10_31_4.vcxproj -> D:\就业课代码\数据结构\datastruct_10_31_4\x64\Debug\datastruct_10_31_4.exe
