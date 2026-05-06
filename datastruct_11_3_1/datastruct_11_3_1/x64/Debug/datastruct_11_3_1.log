@@ -1,0 +1,5 @@
+﻿  test.c
+D:\就业课代码\数据结构\datastruct_11_3_1\datastruct_11_3_1\test.c(34,16): warning C4047: “函数”:“contact *”与“contact **”的间接级别不同
+D:\就业课代码\数据结构\datastruct_11_3_1\datastruct_11_3_1\test.c(34,16): warning C4024: “FindContact”: 形参和实参 1 的类型不同
+D:\就业课代码\数据结构\datastruct_11_3_1\datastruct_11_3_1\test.c(43,4): warning C4013: “SaveContact”未定义；假设外部返回 int
+  datastruct_11_3_1.vcxproj -> D:\就业课代码\数据结构\datastruct_11_3_1\x64\Debug\datastruct_11_3_1.exe
