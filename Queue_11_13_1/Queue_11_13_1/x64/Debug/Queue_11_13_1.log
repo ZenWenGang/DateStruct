@@ -1,0 +1,7 @@
+﻿  Queue.c
+D:\就业课代码\数据结构\Queue_11_13_1\Queue_11_13_1\Queue.c(48,13): warning C4133: “=”: 从“Queue *”到“QNode *”的类型不兼容
+D:\就业课代码\数据结构\Queue_11_13_1\Queue_11_13_1\Queue.c(46,10): warning C4133: “初始化”: 从“QueueNode *”到“Queue *”的类型不兼容
+D:\就业课代码\数据结构\Queue_11_13_1\Queue_11_13_1\Queue.c(62,2): warning C4047: “return”:“QDataType”与“QueueNode *”的间接级别不同
+D:\就业课代码\数据结构\Queue_11_13_1\Queue_11_13_1\Queue.c(85,7): warning C4133: “=”: 从“Queue *”到“QNode *”的类型不兼容
+D:\就业课代码\数据结构\Queue_11_13_1\Queue_11_13_1\Queue.c(83,10): warning C4133: “初始化”: 从“QueueNode *”到“Queue *”的类型不兼容
+  Queue_11_13_1.vcxproj -> D:\就业课代码\数据结构\Queue_11_13_1\x64\Debug\Queue_11_13_1.exe
